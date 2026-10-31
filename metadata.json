@@ -1,0 +1,6 @@
+{
+  "name": "IslamiCity Global - Solusi Berdaya PHK & Ekonomi Syariah Hijau",
+  "description": "Platform solusi cerdas terpadu mengatasi PHK dan pengangguran berbasis dakwah, syariah, berjamaah, bermuamalah inklusif dan green berkelanjutan untuk kemakmuran umat global.islamicity.tv",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
